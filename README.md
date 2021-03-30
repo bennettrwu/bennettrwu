@@ -1,1 +1,1 @@
-Just a high schooler making dumb projects.
+I make ~~bad~~ code to solve my life problems.
