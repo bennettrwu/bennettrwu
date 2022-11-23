@@ -1,1 +1,1 @@
-I make ~~bad~~ code to solve my life problems.
+I write code to solve life problems.
