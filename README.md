@@ -1,1 +1,1 @@
-I write code to solve life problems.
+Writing code for fun, solving problems sometimes.
